@@ -17,6 +17,7 @@ button {
   border-radius: 10px;
   cursor: pointer;
   margin: 10px;
+  transition: transform 0.3s ease;
 }
 
 #yesBtn {
