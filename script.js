@@ -6,19 +6,19 @@ let noClicks = 0;
 const noTexts = [
   "No 😢",
   "Are you sure?",
-  "Kasar"
+  "Kasar",
   "Really sure??",
   "Please reconsider 🥺",
   "I’ll cry 😭",
-  "Last chance 💔"
-  "No"
-  "Please Mommy"
-  "Yk you want to say yes MAMACITA"
-  "PLEASEEEEEE SAY YES"
-  "Stop being stubborn"
-  "I see..."
-  "YOU HATE MEEEE"
-  "WOW :("
+  "Last chance 💔",
+  "No",
+  "Please Mommy",
+  "Yk you want to say yes MAMACITA",
+  "PLEASEEEEEE SAY YES",
+  "Stop being stubborn",
+  "I see...",
+  "YOU HATE MEEEE",
+  "WOW :(",
   "No >:("
 ];
 
